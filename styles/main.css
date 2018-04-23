@@ -1,3 +1,12 @@
-/* body {
-    background-color: blue;
-} */
+body {
+  background-color: plum;
+}
+
+.pet {
+    margin: 20px 0;
+}
+
+.pet-image {
+  width: 400px;
+  height: 300px;
+}
