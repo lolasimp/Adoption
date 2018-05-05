@@ -4,7 +4,8 @@
 Practice installing grunt and creating pet addoption cards.
 
 ## Screenshots
-![Webpage]
+![Webpage](https://raw.githubusercontent.com/lolasimp/Adoption/finish-readme/screenshots/screenshot-1.png)
+![Webpage](https://raw.githubusercontent.com/lolasimp/Adoption/finish-readme/screenshots/screenshot-2.png)
 
 ## How to Run
 1. Clone down this repo, and cd into the project
