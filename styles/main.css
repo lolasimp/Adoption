@@ -2,11 +2,43 @@ body {
   background-color: plum;
 }
 
-.pet {
+/* .pet {
     margin: 20px 0;
+} */
+.center {
+  margin: 27px;
 }
 
+.panel-heading {
+  border-radius: 78px;
+  width: 159px;
+}
+.buttons {
+  margin-bottom: 30px;
+}
+p {
+  color: white;
+}
 .pet-image {
   width: 400px;
   height: 300px;
+  border-radius: 90%;
+}
+.card {
+  border-radius: 60%;
+  background-color: #212b3a;
+}
+.green {
+  background-color: #12bb12;
+  border-radius: 61px;
+}
+
+.blue {
+  background-color: blue;
+  border-radius: 61px;
+}
+
+.red {
+  background-color: red;
+  border-radius: 61px;
 }
